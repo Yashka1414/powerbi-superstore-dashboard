@@ -49,5 +49,3 @@ The dashboard provides insights into sales performance, profit trends, customer 
 Aspiring Data Analyst  
 
 
-
-## 📁 Project Structure
