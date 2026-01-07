@@ -15,9 +15,8 @@ The dashboard provides insights into sales performance, profit trends, customer 
 
 ---
 
-## 📂 Dataset
-- **Dataset Name:** Superstore Dataset  
-- **Source:** Sample Superstore (commonly used for analytics projects)
+## 📂 Dataset Superstore Sales Dataset
+- **Source:** KAGGLE
 - **Data Includes:**
   - Orders
   - Sales
@@ -45,5 +44,10 @@ The dashboard provides insights into sales performance, profit trends, customer 
 - **Microsoft Excel / CSV (Data Source)**
 
 ---
+## 👤 Author
+**YASHKA**  
+Aspiring Data Analyst  
+
+
 
 ## 📁 Project Structure
